@@ -12,13 +12,13 @@
 
 ### Acerca de:
 
-Autores:
+Autores: 
 
-Docente/Curso/Institución:
+Docente/Curso/Institución: Docente Gerardo Gonzalez / Objetos 1 2do cuatrimestre 2021 / UnaHur.
 
 Versión de wollok:
 
-Fecha:
+Fecha: Noviembre 2021
 
 [Guía de herramientas](https://www.wollok.org/documentacion/conceptos/)
 

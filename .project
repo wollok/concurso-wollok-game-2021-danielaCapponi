@@ -32,4 +32,10 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.uqbar.project.wollok.wollokNature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>assets</name>
+			<value>file:/home/licinfo/Documentos/Obj1/wollok/workspace/concursowollokgame2021danielaCapponi/assets</value>
+		</variable>
+	</variableList>
 </projectDescription>
