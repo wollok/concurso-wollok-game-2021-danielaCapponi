@@ -8,10 +8,12 @@ Juego creado con la biblioteca Wollok Game para la materia Objetos 1, Licenciatu
 
 # Notas sobre el juego:
 
-## Copyright gráficos y sonidos:
+### Copyright gráficos y sonidos:
 
 ¡El maravilloso http://wiki.comunidadargentum.com/ fue nuestra fuente principal!
 Y la mano mágica de nuestro compañero que armó las pantallas y retocó elementos.
+
+### General
 
 **Teclas**: Durante el juego se utilizan las flechas para moverse por el tablero, la tecla "q" para agarrar objetos y la tecla "w" para disparar flechas (solo en el tercer nivel).
 
@@ -19,7 +21,7 @@ Y la mano mágica de nuestro compañero que armó las pantallas y retocó elemen
 
 **Personaje**: 
 - Se necesita energía (contador azul con rayo) para caminar, si llega a cero pierde. La energía se obtiene comiendo los pollos que aparecen en el tablero. Son pocos ¡aprovechá bien la energía disponible!
-- 
+
 - Desde el nivel 2 también es necesario cuidar la vida (contador rojo con corazón). Juntar oro en el nivel 2 quita puntos de vida, y chocar con los monstruos del nivel 3 también. Si se llega a cero, pierde. Se puede juntar energía con los brebajes disponibles.
 - 
 **Elementos sorporesa**
@@ -33,19 +35,20 @@ Estés en el nivel que estés, podés pasarlo presionando `z`
 </details>
 
 # Algunos elementos
-ORO
+
+### ORO
 ![El oro...](https://user-images.githubusercontent.com/82007389/144206605-7c4ecd4b-0282-4184-be23-072e3eed7bf2.png)
 
-POLLO
+### POLLO
 ![pollo](https://user-images.githubusercontent.com/82007389/144206653-af4c7363-5c62-4855-ab23-e2343e90fc39.png)
 
-CAJA (se empuja)
+### CAJA (se empuja)
 ![Caja](https://user-images.githubusercontent.com/82007389/144206417-59e72e1f-de4d-42c2-94e3-652d78c3092d.png)
 
-CAJA SORPRESA (se agarra)
+### CAJA SORPRESA (se agarra)
 ![Caja sorpresa](https://user-images.githubusercontent.com/82007389/144206379-dc9ecb93-d2ff-446c-bed7-a26f692130dc.png)
 
-EL COFRE GANADOR
+### EL COFRE GANADOR
 ![Cofre de campeones](https://user-images.githubusercontent.com/82007389/144206449-9240e9a9-7acd-4d2f-8231-8976a54cec83.png)
 
 # Niveles
