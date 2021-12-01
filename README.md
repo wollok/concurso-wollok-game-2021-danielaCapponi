@@ -6,7 +6,12 @@
 # Resumen:
 Juego creado con la biblioteca Wollok Game para la materia Objetos 1, Licenciatura en Informática de la Universidad de Hurlingham, Bs As, Argentina - Segundo cuatrimestre año 2021.
 
-# Instrucciones del juego:
+# Notas sobre el juego:
+
+## Copyright gráficos y sonidos:
+
+¡El maravilloso http://wiki.comunidadargentum.com/ fue nuestra fuente principal!
+Y la mano mágica de nuestro compañero que armó las pantallas y retocó elementos.
 
 **Teclas**: Durante el juego se utilizan las flechas para moverse por el tablero, la tecla "q" para agarrar objetos y la tecla "w" para disparar flechas (solo en el tercer nivel).
 
