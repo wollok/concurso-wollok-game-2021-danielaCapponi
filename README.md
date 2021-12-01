@@ -1,8 +1,8 @@
 # ¡A jugar! 
 
 ## Juego realizado con la biblioteca Wollok Game
-
-![reemplazar por una animación del juego](https://d33wubrfki0l68.cloudfront.net/1ba3cf64b23a4ac786d7432121abbd782794730c/ce83b/documentacion/conceptos/images/wollokcharacter.gif)
+![image](https://user-images.githubusercontent.com/82007389/144194584-1ef6a4d9-f77b-42f0-82e6-71c02de1a029.png)
+![image](https://drive.google.com/file/d/1CIVn57Cui_-GuCIibIUp_MwUBf199xpu/view?usp=sharing)
 
 ### Resumen:
 
