@@ -53,19 +53,21 @@ Estés en el nivel que estés, podés pasarlo presionando `z`
 
 # Niveles
 
-## Nivel 1
+### Nivel 1
 
 El objetivo del nivel 1 es llevar todas las cajas a la alfombra, que es una zona del tablero que aparece en una posición aleatoria. También es necesario juntar las 3 llaves. Una vez ambas cosas suceden, se pasa automáticamente al nivel 2.
 
-## Nivel 2
+### Nivel 2
 
 El objetivo del nivel 2 es buscar todos los oros. ¡Ojo con la vida y la energía! Una vez se obtienen todos los oros, aparece en posición aleatoria un portal, al que hay que ir para poder pasar de nivel.
 
-## Nivel 3
+### Nivel 3
 
 El nivel 3 es el último nivel. Aparecen los monstruos y fantasmas. Se los mata con flechas... ¡Ojo que se empieza con 0 flechas!.. Los fantasmas se mueven de manera aleatoria por el tablero, pero los dos monstruos mayores te van a perseguir a donde sea que vayas. Si te chocan, te quitan puntos de vida... y pueden matarte! Cuando lográs matar un monstruo, una flecha aparece en algún lugar del tablero para que la puedas agarrar. Ojo que si te quedás sin flechas y no hay más en el tablero, no hay forma de matar a los monstruos!
 
-### Acerca de:
+-----
+
+## Acerca de:
 
 **Autores**: Camila Bertolani, Daniela Capponi, Cristian Sebastián Luna, Claudio Andrés Molina
 
