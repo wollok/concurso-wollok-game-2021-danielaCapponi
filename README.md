@@ -30,14 +30,19 @@ Estés en el nivel que estés, podés pasarlo presionando `z`
 # Algunos elementos
 ORO
 ![El oro...](https://user-images.githubusercontent.com/82007389/144206605-7c4ecd4b-0282-4184-be23-072e3eed7bf2.png)
+
 POLLO
 ![pollo](https://user-images.githubusercontent.com/82007389/144206653-af4c7363-5c62-4855-ab23-e2343e90fc39.png)
+
 CAJA (se empuja)
 ![Caja](https://user-images.githubusercontent.com/82007389/144206417-59e72e1f-de4d-42c2-94e3-652d78c3092d.png)
+
 CAJA SORPRESA (se agarra)
 ![Caja sorpresa](https://user-images.githubusercontent.com/82007389/144206379-dc9ecb93-d2ff-446c-bed7-a26f692130dc.png)
+
 EL COFRE GANADOR
 ![Cofre de campeones](https://user-images.githubusercontent.com/82007389/144206449-9240e9a9-7acd-4d2f-8231-8976a54cec83.png)
+
 # Niveles
 
 ## Nivel 1
