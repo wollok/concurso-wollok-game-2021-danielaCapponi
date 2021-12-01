@@ -20,10 +20,11 @@ Juego creado con la biblioteca Wollok Game para la materia Objetos 1, Licenciatu
 **Elementos sorporesa**
 - Hay elementos sorpresa diseminados por el tablero. Algunos quitan energía. Otros te teletransportan. Otros hacen aparecer más pollos o te dan energía. ¿Te arriesgás?
 <details>
-  <summary>Hay teclas secretas en el juego... ¿Te animás a descubrirlas? -- si no te gusta el desafío, te las dejamos acá...</summary>
-1. La tecla ``n`` te da pistas sobre el estado del nivel...
-2. La combinación de ``shift`` con el `2` o con el `3` te lleva directo a esos niveles.
-3. Estés en el nivel que estés, podés pasarlo presionando `z`
+  <summary>
+    Hay teclas secretas en el juego... ¿Te animás a descubrirlas? -- si no te gusta el desafío, te las dejamos acá...</summary>
+La tecla `n` te da pistas sobre el estado del nivel...
+La combinación de `shift` con el `2` o con el `3` te lleva directo a esos niveles.
+Estés en el nivel que estés, podés pasarlo presionando `z`
 </details>
 ### Niveles
 - Nivel 1
