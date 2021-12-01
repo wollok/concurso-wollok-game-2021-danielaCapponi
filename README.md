@@ -7,17 +7,22 @@
 Juego creado con la biblioteca Wollok Game para la materia Objetos 1, Licenciatura en Informática de la Universidad de Hurlingham, Bs As, Argentina - Segundo cuatrimestre año 2021.
 
 # Instrucciones del juego:
+
 **Teclas**: Durante el juego se utilizan las flechas para moverse por el tablero, la tecla "q" para agarrar objetos y la tecla "w" para disparar flechas (solo en el tercer nivel).
+
 **Tablero**: El tablero es de tamaño fijo y de tipo pac-man (infinito).
-**Personaje** ![image](https://user-images.githubusercontent.com/82007389/144201815-4fcca0c2-189c-4c51-8834-80c199e708d1.png): 
+
+**Personaje**: 
 - Se necesita energía (contador azul con rayo) para caminar, si llega a cero pierde. La energía se obtiene comiendo los pollos ![image](https://user-images.githubusercontent.com/82007389/144201723-7af8abe5-3fe4-4531-9a84-37101576c088.png) que aparecen en el tablero. Son pocos ¡aprovechá bien la energía disponible!
+- 
 - Desde el nivel 2 también es necesario cuidar la vida (contador rojo con corazón). Juntar oro ![image](https://user-images.githubusercontent.com/82007389/144201687-9eaa117c-22e2-43c0-9ca7-265f773dc79d.png) en el nivel 2 quita puntos de vida, y chocar con los monstruos del nivel 3 también. Si se llega a cero, pierde. Se puede juntar energía con los brebajes ![image](https://user-images.githubusercontent.com/82007389/144201749-780dfca6-4c8e-447a-bfb1-0266e5a27aee.png) disponibles.
+- 
 **Elementos sorporesa**
 - Hay elementos sorpresa diseminados por el tablero. Algunos quitan energía. Otros te teletransportan. Otros hacen aparecer más pollos o te dan energía. ¿Te arriesgás?
 <details>
   <summary>Hay teclas secretas en el juego... ¿Te animás a descubrirlas? -- si no te gusta el desafío, te las dejamos acá...</summary>
-1. La tecla `n` te da pistas sobre el estado del nivel...
-2. La combinación de `shift` con el `2` o con el `3` te lleva directo a esos niveles.
+1. La tecla ``n`` te da pistas sobre el estado del nivel...
+2. La combinación de ``shift`` con el `2` o con el `3` te lleva directo a esos niveles.
 3. Estés en el nivel que estés, podés pasarlo presionando `z`
 </details>
 ### Niveles
@@ -30,7 +35,7 @@ El nivel 3 es el último nivel. Aparecen los monstruos y fantasmas. Se los mata 
 
 ### Acerca de:
 
-Autores: 
+Autores: Camila Bertolani, Daniela Capponi, Cristian Sebastián Luna, Claudio Andrés Molina
 
 Docente/Curso/Institución: Docente Gerardo Gonzalez / Objetos 1 2do cuatrimestre 2021 / UnaHur.
 
