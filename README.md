@@ -24,7 +24,7 @@ Y la mano mágica de nuestro compañero que armó las pantallas y retocó elemen
 
 - Desde el nivel 2 también es necesario cuidar la vida (contador rojo con corazón). Juntar oro en el nivel 2 quita puntos de vida, y chocar con los monstruos del nivel 3 también. Si se llega a cero, pierde. Se puede juntar energía con los brebajes disponibles.
 - 
-**Elementos sorporesa**
+**Elementos sorpresa**
 - Hay elementos sorpresa diseminados por el tablero. Algunos quitan energía. Otros te teletransportan. Otros hacen aparecer más pollos o te dan energía. ¿Te arriesgás?
 <details>
   <summary>
